@@ -1,2 +1,2 @@
 # salon
- website
+ It's simple website for barbar shop
