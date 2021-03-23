@@ -1,0 +1,65 @@
+body{
+  background-image: linear-gradient(to right top, #6e62a3, #4666a0, #1c6895, #006684, #006370, #0d6b73, #1c7475, #2a7c76, #2b958d, #2aaea5, #27c8bd, #20e3d6);
+  
+  margin: 0;
+    padding: 10px;
+    margin-bottom: 13%;
+    
+
+
+}
+section{
+  padding: 80px;
+}
+.ProPic{
+    width: 300px;
+    height: 350px;
+    border-radius: 20%;
+    margin-left: 5%;
+}
+.heading h1{
+  text-align: center;
+  justify-content: center;
+  font-weight: 100;
+  color: white;
+
+}
+.heading p{
+  text-align: center;
+  justify-content: center;
+  color: white;
+  
+
+}
+.contentBox{
+  padding-left: 50px;
+  text-align: justify;
+}
+.heading{
+  width: 100%;
+  text-align: center;
+
+  
+  
+}
+.content{
+  display: flex;
+  justify-content: space-between;
+}
+.contentBox p{
+  font-size: 17px;
+  color: white;
+  letter-spacing: 0.063em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contentBox h2{
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.contentBox h3{
+  font-size: 25px;
+  color: white;
+  font-style: 'Montserrat', sans-serif ;}
+  
